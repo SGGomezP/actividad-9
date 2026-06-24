@@ -1,0 +1,18 @@
+# Actividad 9 - Programación Dinámica
+
+Este repositorio contiene la solución a dos problemas clásicos de algoritmos resueltos mediante la técnica de Programación Dinámica (PD) en Java.
+
+## Problemas resueltos
+1. **Escaleras:** Calcula las diferentes formas de llegar al escalón N avanzando de 1 o 2 pasos.
+2. **Cambio mínimo de monedas:** Determina la cantidad mínima de monedas necesarias para dar un cambio específico y muestra la combinación.
+
+## Cómo ejecutar el proyecto
+1. Asegúrate de tener instalado Java (JDK 8 o superior).
+2. Clona este repositorio o descarga los archivos `Escaleras.java` y `CambioMonedas.java`.
+3. Abre una terminal y navega hasta el directorio donde guardaste los archivos.
+4. Compila el código escribiendo:
+   `javac Escaleras.java`
+   `javac CambioMonedas.java`
+5. Ejecuta los programas con:
+   `java Escaleras`
+   `java CambioMonedas`
